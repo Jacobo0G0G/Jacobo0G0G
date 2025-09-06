@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**Jacobo0G0G/Jacobo0G0G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase De FPT</title>
+</head>
+<body>
+    <h1>Hola amigo</h1>
+    <h2>registrate</h2>
+    <form action="holamundo.php">
+        <input type="text" placeholder="Usuario" name="user">
+        <input type="password"placeholder="contraseña" name="pass">
+        <button> Enviar </button>
+    </form>
+</body>
+</html>
